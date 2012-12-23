@@ -1,7 +1,6 @@
 # Main configuration based on http://www.physics.drexel.edu/liki/index.php/Mutt
 
 set folder = ~/Mail
-set spoolfile = +"ron/inbox"
 
 # Mutt will mark emails from these addresses as having been sent by you
 alternates ron.bowes@javaop.com ron@skullsecurity.net ron@skullsecurity.org ron.bowes@skullspace.ca
